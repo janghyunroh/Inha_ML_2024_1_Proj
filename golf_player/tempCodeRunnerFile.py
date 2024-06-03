@@ -1,0 +1,1 @@
+C = 10, gamma = 0.01, epsilon = 0.1
